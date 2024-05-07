@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: masterofblafu/cicd2024:someLabel
+          tags: masterofblafu/cicd2024:newTag
 
 
   pull-and-up:
